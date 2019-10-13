@@ -10,7 +10,7 @@ from datetime import datetime
 from django.dispatch import receiver
 
 # Create your models here.
-
+# Generar cambios en el Corredor
 class Corredor(models.Model):
 	numero_corredor = models.CharField(u'Numero Corredor', max_length=10,blank=True, default='')
 	#numero_corredor = models.PositiveIntegerField( verbose_name='ID')
