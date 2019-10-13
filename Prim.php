@@ -94,3 +94,11 @@ agregarArco($grafo, 6, 2, 25);
 agregarArco($grafo, 6, 3, 15);
 ////
 prim($grafo);
+
+<<<<<<< HEAD
+/*Comentario*/
+=======
+/*Comentario*/
+/*Comentario2*/
+/*Comentario3*/
+>>>>>>> ramajuane
