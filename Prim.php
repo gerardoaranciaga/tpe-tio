@@ -94,3 +94,5 @@ agregarArco($grafo, 6, 2, 25);
 agregarArco($grafo, 6, 3, 15);
 ////
 prim($grafo);
+
+/*Comentario */
