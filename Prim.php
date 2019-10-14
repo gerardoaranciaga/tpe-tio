@@ -101,4 +101,8 @@ prim($grafo);
 /*Comentario*/
 /*Comentario2*/
 /*Comentario3*/
+<<<<<<< HEAD
+>>>>>>> ramajuane
+=======
+/*Comentario4*/
 >>>>>>> ramajuane
