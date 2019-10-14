@@ -10,6 +10,7 @@ from datetime import datetime
 from django.dispatch import receiver
 
 # Create your models here.
+# Cambiar modelo corredor tiene un error de implementacion
 
 class Corredor(models.Model):
 	numero_corredor = models.CharField(u'Numero Corredor', max_length=10,blank=True, default='')
